@@ -1,0 +1,61 @@
+body {
+    background-size: cover;
+    background: center cover;
+
+}
+
+
+
+
+
+
+
+
+
+header {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: orange;
+}
+
+.lorem {
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.box {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box1 {
+    margin: 30px;
+    background-color: blue;
+    border: 2px solid black;
+}
+
+.box2 {
+    margin: 30px;
+    background-color: blue;
+    border: 2px solid black;
+}
+
+.box3 {
+    margin: 30px;
+    background-color: blue;
+    border: 2px solid black;
+}
+
+.box4 {
+    margin: 30px;
+    background-color: blue;
+    border: 2px solid black;
+}
