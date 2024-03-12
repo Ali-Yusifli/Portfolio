@@ -8,18 +8,20 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-left: 400px;
 }
 
 .sira1 {
     display: flex;
     align-items: center;
     justify-content: center;
+   
 }
 
 .film1 {
     margin: 10px;
     width: 100px;
-    height: 900px;
+    height: 150px;
     border: 2px solid blue;
 }
 
@@ -34,7 +36,12 @@ p {
 }
 
 .sira2 {
-    margin: 20px;
+    position: relative;
+    top: 180px;
+    right: 495px;
+   
     display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
