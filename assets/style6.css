@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sira1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.film1 {
+    margin: 10px;
+    width: 100px;
+    height: 900px;
+    border: 2px solid blue;
+}
+
+img {
+    width: 100px;
+    height: 70px;
+}
+
+p {
+    margin: 10px;
+    font-size: small;
+}
+
+.sira2 {
+    margin: 20px;
+    display: flex;
+
+}
